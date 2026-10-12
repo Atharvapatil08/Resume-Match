@@ -1,0 +1,22 @@
+Employee_ID,Name,Age,Education,CGPA,Skills,Company_Name,Years_Experience,Salary,Resume_File,Photo_File
+EMP001,Rahul Patil,28,IITB,9.1,Python,ORMAE,4,7.3,EMP001.pdf,EMP001.jpg
+EMP002,Neha Sharma,27,COEP,8.7,"Java, Python",ORMAE,3,6.5,EMP002.pdf,EMP002.jpg
+EMP003,Amit Joshi,29,IITB,9,"AI, Python, Machine Learning",ORMAE,4,7.1,EMP003.pdf,EMP003.jpg
+EMP004,Priya Shah,26,VJTI,8.5,"Java, SQL",ORMAE,2,5.5,EMP004.pdf,EMP004.jpg
+EMP005,Rohan Deshmukh,30,SPPU,8.4,"Python, SQL, AWS",ORMAE,5,9,EMP005.pdf,EMP005.jpg
+EMP006, Sneha Kulkarni,25,COEP,8.9,AI,ORMAE,2,5.8,EMP006.pdf,EMP006.jpg
+EMP007,Vikram More,31,IITB,9.2,"Python, Java, SQL, Docker",ORMAE,6,11,EMP007.pdf,EMP007.jpg
+EMP008,Ananya Joshi,26,VJTI,8.6,"React, JavaScript",ORMAE,3,6.8,EMP008.pdf,EMP008.jpg
+EMP009,Karan Mehta,28,SPPU,8.2,"Python, Machine Learning, Pandas",ORMAE,4,7,EMP009.pdf,EMP009.jpg
+EMP010,Meera Desai,27,COEP,9,"SQL, Excel",ORMAE,3,7.2,EMP010.pdf,EMP010.jpg
+EMP011,Aditya Pawar,29,IITB,8.8,"AI, Python, Deep Learning",ORMAE,5,9.5,EMP011.pdf,EMP011.jpg
+EMP012,Pooja Patil,25,SPPU,8.5,"Java, SQL, MongoDB",ORMAE,2,5.6,EMP012.pdf,EMP012.jpg
+EMP013,Sahil Kulkarni,32,VJTI,8.9,"Python, AWS, Docker",ORMAE,7,12,EMP013.pdf,EMP013.jpg
+EMP014,Isha Shah,26,COEP,8.7,"JavaScript, React, Node.js",ORMAE,3,6.9,EMP014.pdf,EMP014.jpg
+EMP015,Omkar Jadhav,28,IITB,9.1,"AI, Python",ORMAE,4,7.3,EMP015.pdf,EMP015.jpg
+EMP016,Simran Kaur,27,SPPU,8.3,"SQL, Python",ORMAE,3,6.2,EMP016.pdf,EMP016.jpg
+EMP017,Dev Malhotra,30,VJTI,8.6,"Java, Spring Boot, SQL",ORMAE,5,8.5,EMP017.pdf,EMP017.jpg
+EMP018,Anjali Rao,26,COEP,9,"Python, AI, SQL",ORMAE,3,7.5,EMP018.pdf,EMP018.jpg
+EMP019,Nikhil Joshi,29,IITB,8.8,"Machine Learning, Python, Pandas",ORMAE,4,8,EMP019.pdf,EMP019.jpg
+EMP020,Kavya Nair,25,SPPU,8.7,"Java, Python, AWS",ORMAE,2,5.9,EMP020.pdf,EMP020.jpg
+EMP021, Ajinkya Raut,27,"Pimpri Chinchwad University,Pune,","Python, AI, Data Science",4,8.2,ORMAE,6.3 LPA,EMP021.pdf,EMP021.jpg
