@@ -235,7 +235,7 @@ if uploaded_file:
             for i, skill in enumerate(skill_list):
                 with tag_cols[i % 4]:
                     if st.button(
-                        f"🏷️ {skill}",
+                        f" {skill}",
                         key=f"skill_{i}",
                         use_container_width=True
                     ):
